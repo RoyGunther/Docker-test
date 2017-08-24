@@ -1,5 +1,5 @@
-FROM microsoft/nanoserver
+FROM microsoft/Powershell
 
-ADD Data.zip \
+ADD Data.zip /
 
 CMD ["Powershell"]
