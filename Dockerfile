@@ -1,4 +1,4 @@
-FROM microsoft/Powershell
+FROM microsoft/powershell
 
 ADD Data.zip /
 
